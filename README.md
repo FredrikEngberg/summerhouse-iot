@@ -4,7 +4,7 @@ IoT and embedded systems portfolio project for monitoring, automation and data-d
 # 🏡 Summer House IoT
 
 <p align="center">
-  <img src="images/project-overview.png" alt="Summer House IoT project overview" width="900">
+  <img src="images/projectvision.png" alt="Summer House IoT project overview" width="900">
 </p>
 
 A long-term **Embedded Systems & IoT portfolio project** where an existing summer house is gradually upgraded with local monitoring, automation and data-driven control.
