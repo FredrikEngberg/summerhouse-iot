@@ -1,5 +1,5 @@
 # summerhouse-iot
-IoT and embedded systems portfolio project for monitoring, automation and data-driven control of a summer house.
+IoT & embedded systems portfolio project focused on local monitoring, automation and data-driven control.
 
 # 🏡 Summer House IoT
 
